@@ -5,7 +5,7 @@
 
 - `Arcaea_Tairitsu.png`
     - Source: https://x.com/MLTTroranem/status/1810611872451985739 by [RORANEM](https://x.com/MLTTroranem)
-    - Raw Link: `https://github.com/Penguin-71630/Wallpapers/blob/81c678daa8da5aa486651d30584eacfffa162f72/Arcaea_Tairitsu.png`
+    - Raw Link: `https://raw.githubusercontent.com/Penguin-71630/Wallpapers/refs/heads/main/Arcaea_Tairitsu.png`
 
 
 - `Inverted-World.png`
