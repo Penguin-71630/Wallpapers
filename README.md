@@ -57,3 +57,7 @@
     - Source: https://www.pixiv.net/en/artworks/95826602 by [神居冰绘](https://space.bilibili.com/1910022)
     - Raw Link: `https://raw.githubusercontent.com/Penguin-71630/Wallpapers/refs/heads/main/neo_kosmo.jpg`
 
+
+- `enchanted_lake.jpg`
+    - Source: https://www.deviantart.com/jjcanvas/art/Enchanted-Lake-787217289 by [JJcanvas](https://twitter.com/JJcanvas/media)
+    - Raw Link: `https://raw.githubusercontent.com/Penguin-71630/Wallpapers/refs/heads/main/enchanted_lake.jpg`
